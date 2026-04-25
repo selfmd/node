@@ -1,0 +1,1 @@
+{"version":3,"file":"database.d.ts","sourceRoot":"","sources":["../../src/storage/database.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,MAAM,gBAAgB,CAAC;AAuFtC,qBAAa,aAAa;IACxB,OAAO,CAAC,EAAE,CAAoB;gBAElB,OAAO,EAAE,MAAM;IAU3B,OAAO,IAAI,IAAI;IAgBf,OAAO,CAAC,gBAAgB;IAWxB,KAAK,IAAI,QAAQ,CAAC,QAAQ;IAI1B,KAAK,IAAI,IAAI;CAGd"}
